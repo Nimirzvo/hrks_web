@@ -1,0 +1,12 @@
+<?php
+require("class.xml.phtml");
+require("class.mysql_xml.phtml");
+
+# Clear table only for example
+$table = new recordset;
+$table->exec("Delete From users");
+# Clear table only for example
+
+$conv = new mysql2xml;
+$conv->insertIntoMySQL("users.xml", "users");
+?>

@@ -1,0 +1,32 @@
+<?php
+/**
+  * set some variables for upload script
+  */
+$SESSION_KEY = '__upload_status';  
+$id = uniqid("");
+$_SESSION[$SESSION_KEY]["handler"] = "";
+
+$plugins = array(
+           "apc", 
+	   "uploadprogress",
+	   "noplugin"
+	   ); // available plugins. Each plugin has own checkfunction in upload_functions.php and own file with functions in upload_#KEY#.php
+$path = "/tmp"; // path where uploaded files will be stored
+
+include_once("upload_functions.php");
+
+checkSessions();
+
+
+foreach ($plugins as $plugin)
+{
+  $check = ;
+    
+  if ($plugin."Check"())
+  {
+    $_SESSION[$SESSION_KEY]["handler"] = $plugin;
+    include_once("upload_".$plugin.".php");
+    break;
+  } 
+}
+?>

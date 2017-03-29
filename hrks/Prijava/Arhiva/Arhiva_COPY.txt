@@ -1,0 +1,408 @@
+##d##dokumenti##d##
+##d##dokumenti_vrsta##d##
+##d##osoba##d##
+##d##osoba_prezentacija##d##
+##d##potvrda##d##
+##d##prijava##d##
+##d##prijava_dolazak##d##
+##d##racun##d##
+##d##referat##d##
+##d##referat_osoba##d##
+##d##skola_osoba##d##
+##d##skupovi##d##
+##d##tip##d##
+##d##titula##d##
+-100#;#Arhiva_13_6_2011.txt#;#
+##d##udruge##d##
+##d##uplata##d##
+##d##uplata_ostalo##d##
+##d##users##d##
+##d##zupanija##d##
+##d##prijave_fiep##d##
+1#;#8#;#2010-10-27#;#2#;#Božaniæ#;# Ana#;#profesor kineziologije#;# Split#;#21000#;# Teslina 6#;#43#;# 00385915668779#;# #;# bozanicana@gmail.com#;#Kineziološki fakultet Sveuèilišta u Splitu#;#2#;#CHANGES IN FUNDAMENTAL MOVEMENT SKILLS CAUSED BY A GYMNASTICS TREATMENT IN PRESCHOOLERS#;# Ana Božaniæ, Sunèica Delaš Kalinski, Frane Žuvela#;#Ana Božaniæ#;#1#;#Radovi/Božaniæ, Delaš-Kalinski, Žuvela.doc#;# #;#0#;#
+2#;#8#;#2010-11-05#;#2#;#Delaš Kalinski#;# Sunèica#;#Doktor znanosti#;# Split#;#21000#;# Teslina 6#;#43#;# 0038521302440#;# #;# suncica.delas@kifst.hr#;#Kineziološki fakultet Sveuèilišta u Splitu#;#2#;#ANALIZA DINAMIKE PROCESA UÈENJA NEKIH GIMNASTIÈKIH ZNANJA IZ PRVOG RAZREDA OSNOVE ŠKOLE#;#Sunèica Delaš Kalinski Ana Božaniæ Marin Surjan Bilac#;#Sunèica Delaš Kalinski#;#1#;#Radovi/Delaš Kalinski, Božaniæ, Surjan Bilac.docx#;# #;#0#;#
+3#;#8#;#2010-11-05#;#1#;#Žuvela#;# Frane#;#DR. SC.#;# Solin#;#21210#;# Put mira 16#;#43#;# 00385911515515#;# #;# frane.zuvela@kifst.hr#;#Kineziološki fakultet u Splitu#;#2#;#POVEZANOST KVALITATIVNE I KVANTITATIVNE PROCJENE BIOTIÈKIH MOTORIÈKIH ZNANJA#;# Frane Žuvela, Boris Maleš, Ðurðica Miletiæ#;#Frane Žuvela#;#1#;#Radovi/Rad.docx#;# #;#0#;#
+4#;#8#;#2010-11-05#;#1#;#Tahiraj#;# Enver#;#msc#;# Pristina - Kosovo#;#10 000#;# sarajevo 123/B#;#265#;# +377 (0) 44 112 013#;# #;# envertahiraj@live.com#;#MYCS (ministarsvo sporta)   menager sporta, Kosovo#;#1#;# #;#  #;# #;#0#;# #;# #;#0#;#
+5#;#8#;#2010-11-05#;#1#;#ALMIUOF#;# SAID#;#UNIVERSITY STAFF MEMBER#;# TRIPOLI#;#218#;# TRIPOLI#;#98#;# 00218913662364#;#00218214623099#;# S.MIUOF@alfateh.edu.ly#;#Alfateh University#;#4#;#Dietary intake , food consumption and physical activity of adolescents in Tripoli Libya.#;# SAID.S.ALMIUOF FACULTY OF PHYSICAL EDUCATION AND SPORT- ALFATEH UNIVERSITY#;#SAID.S.ALMIUOF#;#1#;#Radovi/adolesecents.docx#;# #;#0#;#
+6#;#8#;#2010-11-23#;#1#;#shatri#;# fikret#;#msc#;# pristina#;#10 000#;# dardania #;#265#;# +344 (0) 161 227#;# #;# fikretshatri@hotmail.com#;# #;#1#;# #;#  #;# #;#0#;# #;# #;#0#;#
+7#;#8#;#2010-12-08#;#1#;#Antala#;# Branislav#;# #;# Bratislava#;#81169#;# L.Svobodu 9#;#156#;# 421905887575#;# #;# antala@fsport.uniba.sk#;#Comenius University, Faculty of PE and Sports#;#1#;# #;#  #;# #;#0#;# #;# #;#0#;#
+8#;#8#;#2010-12-31#;#1#;#Prskalo#;# Ivan#;#Associate professor#;# Petrinja#;#44250#;# Gajeva 109a#;#43#;# +385992174477#;#+38544551333#;# ivan.prskalo@sk.t-com.hr#;#University of Zagreb/Faculty of teacher education#;#2#;#Mjesto stanovanja prediktor spolnog dimorfizma nekih motorièkih sposobnosti u primarnoj edukaciji#;# Ivan Prskalo, Žarko Kraljeviæ, Marko Kovaèiæ #;#Ivan Prskalo#;#1#;#Radovi/RadFIEP-PrskaloKraljevic.doc#;# #;#0#;#
+9#;#8#;#2011-01-04#;#1#;#Kraljeviæ#;# Žarko#;#Magistar fizièke kulture#;# Široki Brijeg#;#88220#;# Mokro bb#;#22#;# 0038763693333#;# #;# kraljevic.zare@gmail.com#;# #;#3#;#Mjesto stanovanja prediktor spolnog dimorfizma nekih motorièkih sposobnosti u primarnoj edukaciji#;# Ivan Prskalo, Žarko Kraljeviæ, Marko Kovaèiæ#;#Prof. dr. sc. Ivan Prskalo#;#1#;#Radovi/RadFIEP-PrskaloKraljevic.doc#;# #;#0#;#
+10#;#8#;#2011-01-04#;#1#;#Kovaèiæ#;# Marko#;#Magistar fizièke kulture#;# Široki Brijeg#;#88220#;# Augusta Šenoa, 20#;#22#;# 0038763385555#;# #;# koovacic.marko@gmail.com#;# #;#3#;#Mjesto stanovanja prediktor spolnog dimorfizma nekih motorièkih sposobnosti u primarnoj edukaciji#;# Ivan Prskalo, Žarko Kraljeviæ, Marko Kovaèiæ#;#Prof. dr. sc. Ivan Prskalo#;#1#;#Radovi/RadFIEP-PrskaloKraljevic.doc#;# #;#0#;#
+11#;#8#;#2011-01-15#;#1#;#Živanoviæ#;# Nenad#;#Redovni profesor#;# Niš#;#18000#;# Èarnojeviæa 10#;#152#;# +38169609550#;#+38118242482#;# zivanovic@fsfv.ni.ac.rs#;#Faculty of Sport and Physical Education#;#2#;#ROLE OF SCHOOL SPORT IN EDUCATION OF YOUTH#;# Nenad Živanoviæ, Faculty of Sport and Physical Education, University of Niš Petar Pavloviæ, Faculty of Physical Education and Sport, University of Banja Luka Nebojša Ranðeloviæ, Faculty of Sport and Physical Education, University of Niš Momir Æiriæ, Faculty of Sport and Physical Education, University of Niš#;#Nenad Živanoviæ#;#2#;#Radovi/Nenad Zivanovic Abstract FIEP Hrvatska.doc#;# #;#0#;#
+12#;#8#;#2011-01-17#;#1#;#Ðonliæ#;# Veno#;#Viši predavaè#;# Rijeka#;#51000#;# Drage Šæitara 2#;#43#;# 091/58 88 490#;# #;# veno.djonlic@ri.t-com.hr#;#Filozofski fakultet u Rijeci#;#2#;#Moguænost primjene neformalnog i informalnog obrazovanja u studentskim sportskim udrugama i savezima#;# Veno Ðonliæ Viktor Moretti#;#Veno Ðonliæ#;#2#;#Radovi/MOGUÆNOST PRIMJENE NEFORMALNOG I INFORMALNOG OBRAZOVANJA .doc#;# #;#0#;#
+13#;#8#;#2011-01-17#;#1#;#ŠIMONEK#;# Jaromír#;#prof. PaedDr. PhD.#;# Nitra#;#94901#;# Jánošíkova 5#;#156#;# ++421 903 203 224#;# #;# jsimonek@ukf.sk#;#Constantine the Philosopher University in Nitra#;#2#;#FROM PERFORMANCE-ORIENTED TO COMPETENCE-BASED PHYSICAL EDUCATION CURRICULUM IN SLOVAKIA#;# ŠIMONEK, Jaromír - HALMOVÁ, Nora - KANÁSOVÁ, Janka#;#ŠIMONEK, Jaromír#;#2#;#Radovi/FIEP Simonek et al.doc#;# #;#0#;#
+14#;#8#;#2011-01-19#;#1#;#Findak#;# Vladimir#;#prof.emeritus#;# Zagreb#;#10000#;# Medvešèak 99#;#43#;# 099/2142814#;# #;# dkamenar@kif.hr#;# #;#2#;#Kineziološka paradigma kompetencija uèenika u 21.stoljeæu#;# prof.emeritus Vladimir Findak#;#prof.emeritus Vladimir Findak #;#1#;#Radovi/RAD FINDAK-kineziološka paradigma.doc#;# #;#0#;#
+16#;#8#;#2011-01-23#;#1#;#Petriæ#;# Vilko#;#Profesor kineziologije#;# Pula#;#52215#;# Gervaisova 9#;#43#;# 0958474505#;# #;# vilko.petric@skole.hr#;# #;#2#;#Razina tjelesne aktivnosti kod uèenika starije školske dobi i povezanost iste s indeksom tjelesne mase#;# Vilko Petriæ, Dario Novak, Vladimir Findak#;#Vilko Petriæ#;#1#;#Radovi/FIEP svibanj.doc#;# #;#0#;#
+17#;#8#;#2011-01-24#;#1#;#TSANG#;# ERIC CHEUK KUEN#;#PhD#;# HONG KONG#;#N/A#;# 10 LO PING ROAD, TAI PO#;#250#;# 85294214487#;#85229487848#;# cktsang@ied.edu.hk#;#THE HONG KONG INSTITUTE OF EDUCATION#;#4#;#Motivation of female secondary students towards participation in physical activities in Hong Kong#;# TSANG, E.C.K.#;#DR. TSANG E.C.K.#;#1#;#Radovi/Tsang, E.C.K..doc#;#D#;#0#;#
+18#;#8#;#2011-01-24#;#1#;#Šafariæ#;# Zlatko#;#mr.sc.#;# Zagreb#;#10000#;# Horvaæanski zavoj 15#;#43#;# n/a#;# #;# zlsafar@kif.hr#;#Kineziološki fakultet#;#2#;#Provjera metrijskih karakteristika skale K1 stava prema sportovima na uzorcima zagrebaèkih maturanata i maturantica#;# Zlatko Šafariæ, Željka Šafariæ #;#Zlatko Šafariæ#;#1#;#Radovi/Zlatko Šafariæ - Provjera metrijskih karakteristika skale K1 stava prema sportovima na uzorcima zagrebaèkih maturanata i maturantica.doc#;# #;#0#;#
+19#;#8#;#2011-01-24#;#1#;#Ikwuagwu#;# Dominic Uzodimma#;#Coach#;# Lagos, Nigeria#;#23401#;# No. 6 Beach Road, Agric-Owutu, Ikorodu, Lagos, Nigeria. P.O.Box 2673 Ikorodu-Lagos, Nigeria (23401).#;#128#;# +234-8075436267#;# #;# uniqueultimate2007@yahoo.com#;#UNIQUE ULTIMATE SPORT ACADEMY, LAGOS-NIGERIA#;#2#;#Talent Identification and Early Development Programme#;# (Coach) Dominic Uzodimma Ikwuagwu#;#(Coach) Dominic Uzodimma Ikwuagwu#;#2#;#Radovi/talentidentificationanddevelop.doc#;#D#;#0#;#
+20#;#8#;#2011-01-25#;#2#;#Mileva#;# Eleonora#;#Associated Professor, Vice-Dea#;# Sofia#;#1612#;# Balchik 1#;#26#;# 00359 898776676#;# #;# emileva2002@yahoo.com#;#National Sports Academy, Sofia, Bulgaria#;#2#;#VOCATIONAL QUALIFICATION AND TRAINING OF PHYSICAL EDUCATION TEACHERS AT THE NATIONAL SPORTS ACADEMY IN BULGARIA  #;# Eleonora Mileva#;#Eleonora Mileva#;#1#;#Radovi/croatia_fiep_mileva.docx#;#D#;#0#;#
+21#;#8#;#2011-01-25#;#1#;#Novak#;# Dario#;#Ph.D.#;# Zagreb#;#10000#;# Horvaæanski zavoj 15#;#43#;# 00385994455699#;# #;# dnovak@kif.hr#;#Faculty of Kinesiology, University of Zagreb#;#3#;#Razina tjelesne aktivnosti kod uèenika starije školske dobi i povezanost iste s indeksom tjelesne mase#;# Vilko Petriæ, Dario Novak, Vladimir Findak#;#Vilko Petriæ#;#1#;#Radovi/Zlatko Šafariæ - Provjera metrijskih karakteristika skale K1 stava prema sportovima na uzorcima zagrebaèkih maturanata i maturantica.doc#;# #;#0#;#
+23#;#8#;#2011-01-26#;#2#;#Ochiana#;# Gabriela#;#PhD#;# Bacau#;#600115#;# Marasesti 157#;#141#;# 0040744347643#;# #;# gabi_ochiana@yahoo.com#;#"Vasile Alecsandri" University#;#3#;#STUDY CONCERNING THE PHYSICAL EDUCATION, THE ASSESSMENT SYSTEM AND THE PARENTS’ HOPES CONCERNING THIS SCHOOL SUBJECT  ON PRIMARY SCHOOL LEVEL  #;# Ochiana Nicolae Ochiana Gabriela#;#Ochiana Nicolae#;#1#;#Radovi/#;# #;#0#;#
+24#;#8#;#2011-01-26#;#1#;#Holzweg#;# Martin#;# #;# Berlin#;#10115#;# Philippstraße 13 (Haus 11)#;#64#;# +49 0170 5818283#;# #;# martin.holzweg@spowi.hu-berlin.de#;#Humboldt University of Berlin, Institute of Sport Science#;#2#;#INCREASING THE PRECISISION OF MOTOR ABILITY ESTIMATES #;# Martin Holzweg, Kerstin Ketelhut & Steffen Brandt#;#Martin Holzweg#;#1#;#Radovi/Abstract FIEP Porec_Holzweg_Ketelhut_Brandt_20110126.pdf#;# #;#0#;#
+25#;#8#;#2011-01-26#;#2#;#KOVAÈEVIÆ#;# ANA#;#Profesor sporta i tjelesnog od#;# Mostar#;#88000#;# Zrinjski Frankopana 2/2#;#22#;# 00387 63 928 463#;# #;# ana82kovacevic@yahoo.com#;# #;#2#;#ANTROPOLOŠKA OBILJEŽJA SREDNJOŠKOLACA KAO SPOLNI DIMORFIZAM#;# Ana Kovaèeviæ, Mladen Kvesiæ i Danijela Kuna#;#Ana Kovaèeviæ#;#1#;#Radovi/ANTROPOLOŠKA OBILJEŽJA SREDNJOŠKOLACA KAO SPOLNI DIMORFIZAM.docx#;# #;#0#;#
+26#;#8#;#2011-01-27#;#1#;#Ivanoviæ#;# Miroljub#;#Doktor nauka u oblasti fizièke#;# Valjevo#;#14000#;# Resavska 11#;#152#;# +00381 69 1777 019#;#+00381 22 621 864#;# miroljub.ivanovic@gmail.com#;#Visoka škola strukovnih studija za obrazovanje vaspitaèa u Sremskoj Mitrovici#;#2#;#Odnosi dimenzija liènosti adolescenata i ocijena u tjelesnom odgoju#;# Miroljub Ivanoviæ, Uglješa Ivanoviæ#;#Miroljub Ivanoviæ#;#1#;# #;#D#;#0#;#
+27#;#8#;#2011-01-27#;#2#;#LORGER#;# MARIJA#;#mr. sc #;# ZAGREB #;#10090#;# STORŽIÈKA 29#;#43#;# 098 1834 665 #;# #;# marija.lorger@zg.t-com.hr#;#UÈITELJSKI FAKULTET SVEUÈILIŠTA U ZAGREBU #;#2#;#Komparacija nekih pokazatelja opæe i specifiène koordinacije mladfih rukometašica i rukometaša u školskom sportu #;# mr. sc. Marija Lorger  prof.  dr. sc. Ivan Prskalo  #;#Marija Lorger #;#2#;#Radovi/Komparacija nekih pokazatelja opæe i specifiène koordinacije mladih.doc#;# #;#0#;#
+28#;#8#;#2011-01-28#;#1#;#Badnjareviæ#;# Nemanja#;# #;# Beograd#;#11030#;# Kneza Višeslava 72#;#152#;# n/a#;# #;# nlavovi@gmail.com#;#Republièki zavod za sport#;#2#;#UTJECAJ VJEŽBANJA NA BOLESTI DIŠNOG SUSTAVA#;# Badnjareviæ Nemanja, Dragoljub Janjiæ, Marko Vasiljeviæ #;#Badnjareviæ Nemanja#;#1#;#Radovi/UTJECAJ VJEŽBANJA NA BOLESTI DIŠNOG SUSTAVA.doc#;# #;#0#;#
+29#;#8#;#2011-01-28#;#2#;#Šolinc#;# Neva#;#profesor#;# Ljubljana#;#1000#;# Aljaževa 32#;#157#;# 0038640202199#;# #;# neva.solinc@guest.arnes.si#;#Gimnazija Šiška#;#2#;#Realising an ideal image of a sports student#;# Neva Šolinc#;#Neva Šolinc#;#1#;#Radovi/Realising an ideal image of a sports student.doc#;# #;#0#;#
+30#;#8#;#2011-01-28#;#2#;#Jones#;# Vanessa#;# #;# Worcester#;#WR2 5SR#;# Henwick Grove#;#183#;# 01905855328#;# #;# v.jones@worc.ac.uk#;#University of Worcester#;#2#;#Values and beliefs –undergraduate student’s perceptions of Physical Education#;# Jones.V and Barber,L#;#Vanessa Jones#;#1#;#Radovi/Abstract for Values and Beliefs.doc#;# #;#0#;#
+31#;#8#;#2011-01-30#;#1#;#FORETIÆ#;# NIKOLA#;# #;# SPLIT#;#21000#;# TIJARDOVIÆEVA 12#;#43#;# 098 666 136#;# #;# nikolaforetic@hotmail.com#;#KIF SPLIT#;#2#;#PRIMJENA MINI RUKOMETA U NASTAVI TZK-A I ŠKOLSKOM SPORTU#;# Nikola Foretiæ, prof. Ante Burger, prof. Dr.sc. Nenad Rogulj  #;#Ante Burger#;#1#;#Radovi/MINI_RUKOMET_fiep.docx#;# #;#0#;#
+32#;#8#;#2011-01-30#;#1#;#Visnjic#;# Dragoljub#;#prof dr#;# Beograd#;#11 000#;# Blagoja Parovica 156#;#152#;# +381637539774#;# #;# dragoljub.visnjic@dif.bg.ac.rs#;#Univerzitet u Beogradu, FSFV#;#2#;#Motivacija za angazovanjem, postignuca u nastavi tjelesnog odgoja i uzrast ucenika#;# Dragoljub Visnjic, Jelena Ilic, Dragan Martinovic#;#Dragoljub Visnjic#;#1#;#Radovi/Visnjic et al. - MOTIVATION FOR INVOLMENT, ACHIEVEMNTS IN PHYSICAL EDUCATION AND CLASSES OF MALE STUDENTS.doc#;# #;#0#;#
+33#;#8#;#2011-01-30#;#2#;#Ružbarská#;# Ingrid#;#PaedDr., PhD.#;# Prešov#;#08001#;# Duchnovièovo nám. 1#;#156#;# 00421907638273#;# #;# ruzbarska@ismpo.sk#;#International College of Management ISM Slovakia#;#4#;#Diagnostic possibilities of motor performance in primary school children#;# Ingrid Ružbarská, Milan Turek#;#Ingrid Ružbarská#;#1#;#Radovi/Ingrid Ruzbarska_Porec.doc#;#D#;#0#;#
+34#;#8#;#2011-01-30#;#2#;#CAZZOLI#;# STEFANIA#;#Prof.#;# Turin#;#10100#;# 4, Via Cremona#;#82#;# +39 333 7557398#;#+39 011 2476871#;# stefania.cazzoli@libero.it#;#MIUR Ministery Instruction University Research- UST Turin - FIEP Europe President APA#;#2#;#Physical Education and inclusion of person with disabilities in according with United Nation Convention Rights Person with Disabilities (UN, CRCP 2006-2011)#;# Cazzoli Stefania#;#CAZZOLI STEFANIA#;#1#;#Radovi/CazzoliFiepUNCRCP2011.doc#;#D#;#0#;#
+35#;#8#;#2011-01-31#;#1#;#Peter#;# Rozboril#;#Mgr.#;# Bratislava#;#81469#;# L. Svobodu 9#;#156#;# +421908891779#;# #;# peter.rozboril@fsport.uniba.sk#;#Comenius University in Bratislava, Faculty of Physical Education and Sports#;#4#;#Comparison of the situation of sports facilities in Bratislava grammar schools between 1990 and 2010.#;# Peter Rozboril - Branislav Antala#;#Peter Rozboril#;#1#;#Radovi/Rozboril - Antala - Sport facilities.doc#;# #;#0#;#
+36#;#8#;#2011-01-31#;#2#;#Dancikova#;# Veronika#;#Mgr.#;# Bratislava#;#814 69#;# L. Svobodu 9#;#156#;# 00421903391711#;# #;# nikitka75@gmail.com#;#Comenius University in Bratislava, Faculty of Physical Education and Sports#;#2#;#School Managers’ Opinions about Physical and Sport Education of Boys and Girls #;# Veronika Danèíková - Branislav Antala#;#Veronika Dancikova#;#1#;#Radovi/Antala,Dancikova, POREC.doc#;# #;#0#;#
+37#;#8#;#2011-01-31#;#2#;#Vitková#;# Dominika#;#Mgr.#;# Bratislava#;#81469#;# L.Svobodu 9#;#156#;# +421902130766#;# #;# dominika.vitkova@fsport.uniba.sk#;#Comenius University in Bratislava, Faculty Physical Education and Sports#;#2#;#Determinants of residents physical activity in chosen Slovak region #;# Dominika Vitková#;#Dominika Vitková#;#1#;#Radovi/anotation vitkova dominika.doc#;# #;#0#;#
+38#;#8#;#2011-01-31#;#1#;#Emeljanovas#;# Arunas#;#dr. #;# Kaunas#;#LT-44221#;# Sporto 6#;#100#;# +37061540405#;# #;# a.emeljanovas@lkka.lt#;#Lithuanian Academy of Physical Education#;#4#;#EXTRA-CURRICULAR PHYSICAL ACTIVITY EFFECT ON GIRLS WITH POOR PHYSICAL FITNESS #;# Arunas Emeljanovas, Renata Rutkauskait&#279;, Laima Trink&#363;nien&#279;, Rita Gruodyt&#279;#;#Arunas Emeljanovas#;#2#;#Radovi/Paper_Emeljanovas_et_al_Lithuania.doc#;# #;#0#;#
+39#;#8#;#2011-01-31#;#1#;#Badriæ#;# Marko#;#profesor#;# Petrinja#;#44250#;# M.Držiæa 2. odvojak 11#;#43#;# 091/5164548#;# #;# marko.badric@gmail.com#;#Uèiteljski fakultet, Zagreb#;#2#;#Razlike u strukturi slobodnog vremena izmeðu uèenika urbanih i ruralnih podruèja#;# Marko Badriæ, prof. dr. sc. Ivan Prskalo, Ninoslav Šiliæ, #;#Marko Badriæ#;#1#;#Radovi/rad_fiep_2011.docx#;# #;#0#;#
+40#;#8#;#2011-01-31#;#1#;#Markuš#;# Damir#;#prof.#;# Èakovec#;#40000#;# Zrinsko-Frankopanska 6#;#43#;# 0989070962#;# #;# damir.markus@ck.t-com.hr#;#Tehnièka škola Èakovec#;#2#;#KOMPETENCIJE U TJELESNOM I ZDRAVSTVENOM ODGOJNO OBRAZOVNOM PODRUÈJU: PROCJENA UÈENIÈKE TRENUTAÈNE OSPOSOBLJENOSTI#;# Damir Markuš, prof. prof. dr. Boris Neljak Bruno Trstenjak, dipl. ing.#;#Damir Markuš, prof.#;#1#;#Radovi/Markus_FIEP_2011.docx#;# #;#0#;#
+41#;#8#;#2011-01-31#;#1#;#Neljak#;# Boris#;#prof.dr.sc.#;# Zagreb#;#10000#;# Galoviæeva 8/4#;#43#;# 098220550#;# #;# bneljak@kif.hr#;#Kineziološki fakultet Sveuèilišta u Zagrebu#;#2#;#KOMPETENCIJE U TJELESNOM I ZDRAVSTVENOM ODGOJNO OBRAZOVNOM PODRUÈJU: UÈENIÈKA PROCJENA VAŽNOSTI#;# prof. dr. Boris Neljak Damir Markuš, prof. Bruno Trstenjak, dipl. ing. Sandra Viškoviæ, prof.#;#Damir Markuš, prof.#;#1#;#Radovi/Neljak_FIEP_2011.docx#;# #;#0#;#
+42#;#8#;#2011-01-31#;#1#;#Hrnèiarik#;# Pavol#;#Mgr.#;# Bratislava#;#81469#;# Nábr. arm. gen. L. Svobodu 9#;#156#;# +421908626561#;# #;# pavol.hrnciarik@azet.sk#;#Comenius University in Bratislava , Faculty of Physical Education and Sports, Department of Games  #;#4#;#THE ANALYSIS OF GAME PERFORMANCE OF GOALKEEPERS IN THE U19 EUROPEAN CHAMPIONSHIPS QUALIFIER MATCHES#;# Hrnèiarik Pavol – Peráèek Pavol#;#Hrnèiarik Pavol#;#2#;#Radovi/Hrnciarik - Peracek POREC.doc#;# #;#0#;#
+43#;#8#;#2011-01-31#;#1#;#Maroševiæ#;# Alen#;#Magistar kineziologije u eduka#;# Sveta Marija#;#40326#;# Zelengaj 10#;#43#;# 098/185-4589#;#040/661-026#;# alen.ferrari@gmail.com#;# #;#2#;#Skala stavova prema alkoholu u sportu#;# Alen Maroševiæ Ivan Belèiæ#;#Alen Maroševiæ#;#1#;#Radovi/Skala stavova prema alkoholu u sportu - Maroševiæ, Belèiæ.docx#;# #;#0#;#
+44#;#8#;#2011-01-31#;#2#;#Pavlova#;# Emiliya#;#Associate Professor, PhD #;# Sofia#;#1700#;# Studentski Grad#;#26#;# 0885291594#;#+359 2 62 90 07#;# emiliapavlova2001@yahoo.com#;#National Sports Academy "V. Levski"#;#2#;#VESTIBULAR STIMULATION AND CARDIOVASCULAR CHANGES  IN 10-12 YEARS OLD RHYTHMIC GYMNASTS #;# Emiliya Pavlova#;#Emiliya Pavlova#;#2#;#Radovi/EMILIYA PAVLOVA- 6th FIEP Congress.doc#;#D#;#0#;#
+45#;#8#;#2011-02-01#;#2#;#Vašíèková#;# Jana#;#Mgr., Ph.D.#;# Olomouc#;#77900#;# Tr. Miru 115#;#46#;# +420739329916#;# #;# jana.vasickova@upol.cz#;#Univerzita Palacky #;#2#;#Key Competencies of Czech Students in PE Lessons with Different Content#;# Jana Vašíèková, Karel Frömel, Zbynìk Svozil#;#Jana Vašíèková#;#1#;#Radovi/Text-Porec2011po kontrole.doc#;# #;#0#;#
+46#;#8#;#2011-02-01#;#2#;#Dasheva#;# Daniela#;#Professor#;# Sofia#;#1700#;# NSA, Studentski grad#;#26#;# +359 898776595#;#+ 359 2 962 51 48#;# dani_dash@yahoo.com#;#National Sports Academy#;#1#;# #;#  #;# #;#0#;# #;#D#;#0#;#
+47#;#8#;#2011-02-01#;#2#;#Milanoviæ#;# Ivana#;#magister#;# Belgrade#;#11000#;# Blagoja Paroviæa 156#;#152#;# 00381642047655#;# #;# ivana.milanovic@fsfv.bg.ac.rs#;#University of Belgrade#;#2#;#INVOLVEMENT IN SPORTS OF ELEMENTARY SCHOOL PUPILS IN SERBIA               #;# Ivana Milanoviæ, Snežana Radisavljeviæ Janiæ#;#Ivana Milanoviæ#;#2#;#Radovi/Milanoviæ, Radisavljeviæ, fiep 2011.doc#;# #;#0#;#
+48#;#8#;#2011-02-01#;#2#;#Radisavljeviæ Janiæ#;# Snežana#;#Phd, ass. prof#;# Belgrade#;#11000#;# Blagoja Paroviæa#;#152#;# 00381616339163#;# #;# snezana.radisavljevic@fsfv.bg.ac.rs#;#University of Belgrade#;#3#;#INVOLVEMENT IN SPORTS OF ELEMENTARY SCHOOL PUPILS IN SERBIA#;# Ivana Milanoviæ, Snežana Radisavljeviæ Janiæ#;#Ivana Milanoviæ#;#2#;#Radovi/#;# #;#0#;#
+49#;#8#;#2011-02-01#;#1#;#Podnar#;# Hrvoje#;#Magistar kineziologije#;# Skrad#;#51311#;# Školska 13#;#43#;# 0915825070#;# #;# hrvoje@podnar.com#;# #;#2#;#Uvodni dio sata TZK: Razlike u fiziološkom optereæenju vježbanja tijekom provedbe razlièitih sadržaja#;# Hrvoje Podnar, Sanja Gomerèiæ, Ivan Zupèiæ#;#Hrvoje Podnar#;#1#;#Radovi/Uvodni dio sata tzk - razlike u fiziološkom optereæenju vježbanja tijekom provedbe razlièitih sadržaja.doc#;# #;#0#;#
+50#;#8#;#2011-02-01#;#1#;#Scheuer#;# Claude#;# #;# Walferdange#;#L-7220#;# route de Diekirch#;#101#;# +352621773722#;# #;# claude.scheuer@education.lu#;#University of Luxembourg#;#2#;#Standards and Competencies - a new core curriculum for PE in Luxembourg#;# Scheuer Claude / Becker Werner#;#Scheuer Claude#;#1#;#Radovi/Standards and Competencies - a new core curriculum for PE in Luxembourg - Scheuer Claude.docx#;# #;#0#;#
+51#;#8#;#2011-02-01#;#2#;#Fernate#;# Andra#;#Dr. paed., Asoc.prof.#;# Riga#;#LV-1006#;# Brivibas gatve 333#;#94#;# +371 29595752#;# #;# Andra.Fernate@lspa.lv#;#Latvian Academy of Sport Education#;#2#;#Interrelations of Pupils’ Physical Development, Functional Condition and Physical Competencies #;# Andra Fernate, Inta Bula-Biteniece, Inta Immere, Rasma Jansone#;#Andra Fernate#;#2#;#Radovi/Fernate_Bula_Immere_Jansone_2011.doc#;#D#;#0#;#
+52#;#8#;#2011-02-02#;#2#;#Diketmueller#;# Rosa#;#Ass.Prof. Dr.#;# Vienna#;#1150#;# Auf der Schmelz 6A#;#10#;# 0043 1 427748813#;#0043 1 4277 48819#;# rosa.diketmueller@univie.ac.at#;# #;#2#;#NEGOTIATING GENDER ISSUES AND PHYSICAL ACTIVITY IN SCHOOL YARDS#;# Diketmueller Rosa#;#Diketmueller Rosa#;#1#;#Radovi/FIEP abstr Diketmueller 2011.docx#;# #;#0#;#
+53#;#8#;#2011-02-02#;#1#;#KURT#;# Cem#;#Asisstant Prof Dr#;# Edirne#;#22030#;# balcan campus#;#177#;# 284 236 04 35#;#284 236 04 36#;# cemkurt35@gmail.com#;#Trakya University K&#305;rkp&#305;nar School of Physical education and Sport#;#4#;#BODY PROPORTION OF TURKISH PHYSICAL EDUCATION AND SPORTS STUDENTS#;# Cem KURT    Fatih ÇATIKKAª   Ozan ATALA&#286;#;#Cem KURT#;#1#;#Radovi/BODY PROPORTION OF TURKISH PHYSICAL EDUCATION AND SPORTS STUDENTS.doc#;#D#;#0#;#
+54#;#8#;#2011-02-03#;#1#;#SINGH#;# KULDEEP#;#PHYSICAL EDUCATIONIST#;# BHOPAL#;#462003#;# F 69/21, SOUTH T.T. NAGAR JAWAHAR CHOWK BHOPAL#;#76#;# +919685918188#;# #;# kulzooni23@gmail.com#;# #;#1#;# #;#  #;# #;#0#;# #;#D#;#0#;#
+55#;#8#;#2011-02-03#;#2#;#Gomerèiæ#;# Sanja#;#Magistar kineziologije#;# Virovitica#;#33000#;# Rezovaèki put 40#;#43#;# 0996834839#;# #;# sanjagomercic@yahoo.com#;# #;#2#;#OPTEREÆENJE VJEŽBANJA TIJEKOM PROVEDBE RAZLIÈITIH SADRŽAJA U PRIPREMNOM DIJELU SATA TZK#;# Sanja Gomerèiæ, Hrvoje Podnar, Arunas Emeljanovas #;#Sanja Gomerèiæ#;#1#;#Radovi/OPTEREÆENJE VJEŽBANJA TIJEKOM PROVEDBE RAZLIÈITIH SADRŽAJA U PRIPREMNOM DIJELU SATA TZK.doc#;# #;#0#;#
+56#;#8#;#2011-02-07#;#1#;#Tomljenoviæ#;# Braco#;#mr.#;# Gospiæ#;#53000#;# Nikole Šubiæa Zrinskog 8.#;#43#;# 0912576338#;#053 665345#;# btomljen@net.hr#;#Uèiteljski fakultet u Rijeci Odsjek u Gospiæu#;#4#;#Razlike u antropološkim obilježjima uèenika petih i šestih razreda u redovitoj nastavi i uèenika ukljuèenih u školski šport u Gospiæu#;# mr. Bravo Tomljenoviæ dr.sc. Aleksandra Pejèiæ dr.sc. Biljana Trajkovski-Višiæ#;#mr. braco Tomljenoviæ#;#2#;#Radovi/FIEP-2011- priopæenje.docx#;# #;#0#;#
+57#;#8#;#2011-02-07#;#1#;#Kulušiæ#;# Fedor#;# #;# Jurdani, Rijeka#;#51213#;# Jušiæi 28#;#43#;# 091/1312-986#;# #;# fkulusic@net.hr#;#Kineziološki fakultet, Zagreb#;#2#;#Tenis kao školski sport#;# Kulušiæ F., Markoviæ J., Ogrizek L.#;#Kulušiè Fedor#;#2#;#Radovi/Fedor Kulušiæ - Tenis kao školski sport.doc#;# #;#0#;#
+58#;#8#;#2011-02-07#;#1#;#EID#;# LUCA#;#PHD#;# SEGRATE#;#20090#;# VIA GRAN PARADISO 2#;#82#;# +39 329 92 85 855#;# #;# eid@irre.lombardia.it#;#ANSAS Italian National School Agency#;#3#;#TREND OF GROWING IN YOUNG ITALIAN STUDENTS:  A LONGITUDINAL STUDY. #;# Lovecchio Nicola, Novak Dario, Eid Luca#;#Eid Luca#;#1#;#Radovi/#;#D#;#0#;#
+59#;#8#;#2011-02-09#;#1#;#Benacka#;# Jozef#;#MD,  PhD#;# Piestany#;#92101#;# Razusova 14#;#156#;# 00421337301334#;# #;# usg@stonline.sk#;#IFBLR Piestany - UCM v Trnave#;#2#;#Selected somatic indexes of the undergraduates.#;# Beòaèka, J., Haring, J., Haringová, E., Ïurinová, E., Zambojová, I.#;#Beòaèka, J.#;#1#;#Radovi/Benacka et al-Porec.doc#;# #;#0#;#
+60#;#8#;#2011-02-09#;#2#;#Kovarova#;# Maria#;#prof., MD, PhD.#;# Piestany#;#921 01#;# Razusova 14#;#156#;# 00421337301334#;# #;# maria.kovarova@seznam.cz#;#IFBLR Piestany - UCM v Trnave#;#2#;#Study of Motion Activities of Undergraduates and the Position of these Activities in the Structure of Free Time Activities#;# Kováøová, M., Hrèka J., Haringová, E.#;#Kováøová, M.#;#1#;#Radovi/Kovarova et al_Porec.doc#;# #;#0#;#
+61#;#8#;#2011-02-09#;#1#;#Hrcka#;# Jozef#;#prof., PhDr., DrC.#;# Piestany#;#92101#;# Razusova 14#;#156#;# 00421337301334#;# #;# ifblr.horvathova@gmail.com#;#IFBLR Piestany - UCM v Trnave#;#2#;#Motion efficiency and functional ability of undergraduates.#;# Hrèka, J., Kováøová, M., Beòaèka, J. #;#Hrcka, J.#;#1#;#Radovi/Hrèka et al.doc#;# #;#0#;#
+62#;#8#;#2011-02-13#;#1#;#PETER#;# SMITH#;# #;# SEREKUNDA#;#22082#;# 5 KAIRABA AVENUE#;#62#;# 00221772338212#;# #;# kingstonesportsmgts@yahoo.com#;# #;#1#;# #;#  #;# #;#0#;# #;#D#;#0#;#
+64#;#8#;#2011-02-16#;#2#;#ZEGNAL#;# MARIJA#;#MAG. KINEZIOLOGIJE U EDUKACIJI#;# KRIŽEVCI#;#48260#;# PETRA  ZRINSKOG  2#;#43#;# 098 597 050#;# #;# majazegnal@gmail.com#;#MEÐIMURSKO VELEUÈILIŠTE U ÈAKOVCU#;#2#;#USVAJANJE MOTORIÈKIH  VJEŠTINA KROZ IGRU  I  POLIGONE    #;# Dr.sc. Nevenka Breslauer    Marija Zegnal,  mag. kineziologije u edukaciji#;#Dr.sc. Nevenka Breslauer#;#1#;#Radovi/USVAJANJE MOTORIÈKIH VJEŠTINA ŠKOLSKE DJECE KROZ IGRU.docx#;# #;#0#;#
+65#;#8#;#2011-02-16#;#2#;#Ujeviæ#;# Tihana#;#prof#;# Zagreb#;#10 000#;# F. Budickog 6#;#43#;# 0038598617005#;# #;# tihananuber@yahoo.com#;#Kineziološki fakultet#;#2#;#Differences in health-related physical fitness statuses between elementary school girls in Croatia#;# Tihana Ujeviæ, Goran Sporiš#;#Tihana Ujeviæ#;#1#;#Radovi/Ujevic-manuscript.docx#;# #;#0#;#
+66#;#8#;#2011-02-17#;#1#;#Zivanovic#;# Nenad#;#Redovni profesor#;# Niš#;#18000#;# Èarnojeviæa 10#;#152#;# +38169609550#;#+38118242482#;# zivanovic@fsfv.ni.ac.rs#;#Faculty of Sport and Physical Education#;#2#;#ROLE OF SCHOOL SPORT IN EDUCATION OF YOUTH#;# Nenad Zivanovic, PhD,   University of Nis, Faculty of Sport and Physical Education   Petar Pavlovic, PhD, University of Banja Luka, Faculty of Physical Education and Sport  Nebojsa Randjelovic, PhD, University of Nis, Faculty of Sport and Physical Education   Momir Ciric, University of Nis, Faculty of Sport and Physical Education  #;#Nenad Zivanovic,#;#2#;#Radovi/Nenad Zivanovic FIEP Hrvatska.doc#;#D#;#0#;#
+67#;#8#;#2011-02-17#;#2#;#Ðukiæ#;# Verica#;#Magistar#;# Zrenjanin#;#23000#;# Ive Lole Ribara 68#;#152#;# +381643719099#;#+38123534575#;# djukicverica@gmail.com#;#Društvo pedagoga fizièke kulture Srbije#;#2#;#ROLE OF PUPILS IN THE APPLICATION OF MORE EFFICIENT DIDACTIC-METHODOLOGICAL PROCEDURES IN PE TEACHING#;# Verica Ðukiæ#;#Verica Ðukiæ#;#1#;#Radovi/Verica Djukic FIEP Hrvatska.doc#;#D#;#0#;#
+68#;#8#;#2011-02-18#;#1#;#Rodiæ#;# Saša#;#profesor fizièke kulture#;# Jastrebarsko#;#10450#;# Ivanèiæi 103#;#43#;# 0989088990#;#01/6281-012#;# sasa.rodic5@zg.t-com.hr#;#Srednja škola Jastrebarsko#;#4#;#Relacije izmeðu baziène i specifiènih manifestacija agilnosti u rukometu#;# Saša Rodiæ, Igor Gruiæ, Katarina Ohnjec#;#Saša Rodiæ#;#2#;#Radovi/Relacije izmeðu baziène i specifiènih manifestacija agilnosti u rukometu,Rodiæ,Gruiæ,Ohnjec.doc#;# #;#0#;#
+70#;#8#;#2011-02-19#;#2#;#ROSA#;# ROSA ANNA#;#Adjunct Professor#;# FOGGIA#;#71100#;# VIALE VIRGILIO#;#82#;# +393396629106#;# #;# birosa@alice.it#;#University of Foggia#;#4#;#ANALYSIS OF THE CAPACITY OF MOVEMENT DIFFERENTIATION IN ITALIAN PRIMARY SCHOOL CHILDREN#;# Italo Sannicandro, Rosa Anna Rosa, Alessia Violante, Andrea Piccinno, Annalisa Frisardi#;#ROSA ROSA ANNA#;#1#;#Radovi/Italo Sannicandro et al. ANALYSIS OF THE CAPACITY OF MOVEMENT DIFFERENTIATION IN ITALIAN PRIMARY SCHOOL CHILDREN.doc#;#D#;#0#;#
+71#;#8#;#2011-02-19#;#2#;#Blaževiæ#;# Iva#;#Dr.sc.#;# Pula#;#52100#;# Vinkuran, centar 42#;#43#;# 0959031700#;# #;# idobrila@yahoo.com#;# #;#2#;#Sprintersko trèanje djece mlaðe školske dobi#;# Iva Blaževiæ, Vesna Babiæ i Ljubomir Antekoloviæ#;#Iva Blaževiæ#;#1#;#Radovi/Blaževiæ, Babiæ, Antekoloviæ-FIEP 2011.doc#;# #;#0#;#
+72#;#8#;#2011-02-20#;#2#;#Bosnar#;# Ksenija#;#Prof. dr. sc. #;# Zagreb#;#10000#;# Horvaæanski zavoj 15#;#43#;# 385 1 3658 736#;# #;# xenia@kif.hr#;#Kineziološki fakultet Sveuèilišta u Zagrebu#;#2#;#RODITELJSKA POTPORA DJEÈACIMA U INDIVIDUALNIM I EKIPNIM SPORTOVIMA#;# Ksenija Bosnar i Ivana Turkalj#;#Ksenija Bosnar#;#1#;#Radovi/Poreè 2011 Turkalj i Bosnar.doc#;# #;#0#;#
+73#;#8#;#2011-02-20#;#2#;#Pousi#;# Airikki#;#Doctor of Philofphy#;# Helsinki#;#00120 Helsinki#;# Ratak. 6B#;#59#;# 0505367210#;# #;# airikki.pousi@helsinki.fi#;#Helsingin yliopisto#;#2#;#The basics of the educational system in Finland#;# Airikki Pousi#;#Airikki Pousi#;#2#;#Radovi/Abstract Kroatia abstrakt 20.2.2011.docx#;#D#;#0#;#
+74#;#8#;#2011-02-20#;#1#;#Balint#;# Gheorghe#;#Proffesor PhD#;# Bacau#;#600115#;# Mãrãºeºti#;#141#;# 0040744542774#;# #;# gyuri68@hotmail.com#;#University "Vasile Alecsandri" of Bacãu#;#2#;#IMPROVING THE BIATHLON JUNIOR ATHLETE PERFORMANCES BY OPTIMIZING THE TECHNICAL TRAINING FOR THE SHOOTING EVENT#;# BALINT  GHEORGHE - University “Vasile Alecsandri” of Bacãu GÎRBACEA DANIELA -  CSS. Dinamo Râºnov #;#BALINT  GHEORGHE - University “Vasile Alecsandri” of Bacãu#;#2#;#Radovi/Balint Gheorghe ROMANIA.doc#;# #;#0#;#
+75#;#8#;#2011-02-20#;#2#;#Sibinoviæ#;# Aleksandra#;#Magistar iz oblasti sporta i f#;# Leskovac#;#16000#;# Vidoje Smilevskog br.8#;#152#;# +381 63 7491 300#;# #;# sibinovic.aleksandra1@gmail.com#;#OŠ "Vožd Karaðorðe"#;#2#;#EFFECTS OF HIGH-LOW AEROBICS PROGRAMME ON MOTORIC ABILITIES OF THE EIGHTH GRADE STUDENTS OF  ELEMENTARY  SCHOOL     #;# Aleksandra Sibinoviæ, Sanja Mandariæ, Milena Mikalacki, Stanimir Stojiljkoviæ#;#Aleksandra Sibinoviæ#;#1#;#Radovi/EFFECTS OF HIGH.doc#;#D#;#0#;#
+76#;#8#;#2011-02-21#;#1#;#Prot#;# Franjo#;#prof.dr.sc.#;# Zagreb#;#10000#;# Horvaæanski zavoj 15#;#43#;# +385 99 254 3868#;#+385 1 3634 146#;# pipo@kif.hr#;#Faculty of kinesiology#;#2#;#POSTIGNUÆE U SPORTU  I BAVLJENJE SPORTOVIMA ZAGREBAÈKIH MATURANATA I MATURANTICA#;# Franjo Prot#;#Franjo Prot#;#2#;#Radovi/PROT-FIEP2011.doc#;# #;#0#;#
+77#;#8#;#2011-02-21#;#1#;#Maleš#;# Boris#;#redoviti profesor#;# Split#;#21000#;# Teslina 6#;#43#;# 021302440#;#021385382#;# boris@kifst.hr#;#Kineziološki fakultet u Splitu#;#3#;#ANALIZA RAZLIKA FUNKCIONALNIH KARAKTERISTIKA STUDENTICA UPORABOM 3 RAZLIÈITE SPRAVE ZA DOZIRANO OPTEREÆENJE  #;# Marko Erceg, Igor Jelaska, Boris Maleš #;#Marko Erceg ili Boris Maleš #;#1#;#Radovi/#;# #;#0#;#
+78#;#8#;#2011-02-21#;#1#;#Jelaska#;# Igor#;#magistar znanosti#;# Split#;#21000#;# Teslina 6#;#43#;# 021302440#;#021385382#;# jelaska@kifst.hr#;#Kineziološki fakultet u Splitu#;#2#;#KOMPARACIJA ALGORITAMA ODABIRA VARIJABLI REGRESIJSKOG MODELA U KINEZIOLOŠKIM ISTRAŽIVANJIMA#;# Igor Jelaska, Erceg Marko, Danijela Kuna #;#Igor Jelaska#;#1#;#Radovi/Jelaska, Erceg, Kuna.doc#;# #;#0#;#
+79#;#8#;#2011-02-21#;#2#;#Hraski#;# Marijana#;#mag. cin.#;# Zagreb#;#10 000#;# Vodnikova 3b#;#43#;# 098/198 6840#;# #;# marijana.hraski@ufzg.hr#;# #;#4#;#THE LEVEL OF PHYSICAL FITNESS COMPETENCE IN STUDENTS OF FACULTY OF TEACHER EDUCATION#;# Marijana Hraski, prof., Snježana Mrakoviæ, prof., dr.sc. Vatroslav Horvat#;#prof., Snježana Mrakoviæ#;#1#;#Radovi/FIEP 2011 Hraski, Mrakoviæ, Horvat.doc#;# #;#0#;#
+80#;#8#;#2011-02-24#;#2#;#Zoretiæ#;# Dajana#;#prof.#;# Zagreb#;#10 000#;# Horvaæanski zavoj 15#;#43#;# 01/3658 768#;# #;# dzoretic@kif.hr#;#Kineziološki fakultet#;#2#;#NOVIJI NASTAVNI PROSTORI I POMAGALA U SVRHU UNAPREÐENJA KOMPETENCIJA UÈENIKA  RECENT TEACHING FACILITIES AND REQUISITES FOR THE IMPROVEMENT OF STUDENTS´ COMPETENCES#;# Dajana Zoretiæ, Nada Grèiæ Zubèeviæ, Vlatka Wertheimer #;#Dajana Zoretiæ#;#1#;#Radovi/NOVIJI NASTAVNI PROSTORI I POMAGALA U SVRHU UNAPREÐENJA KOMPETENCIJA UÈENIKA.doc#;# #;#0#;#
+81#;#8#;#2011-02-24#;#2#;#Wertheimer#;# Vlatka#;#prof. kineziologije#;# Zagreb #;#10 000#;# 8. Južna obala br.15#;#43#;# 091 576 4987#;# #;# vlatak15@yahoo.com#;#student poslijediplomskog studija na Kineziološkom fakultetu#;#2#;#MEÐUPREDMETNA PROJEKTNA NASTAVA U SVRHU STJECANJA OSNOVNIH ZNANJA I RADNIH NAVIKA#;# Vlatka Wertheimer, Dajana Zoretiæ#;#Vlatka Wertheimer#;#1#;#Radovi/me_upredmetna_projektna_nastava_u_svrhu_stjecanja_osnovnih_znanja_i_radnih_navika.doc#;# #;#0#;#
+83#;#8#;#2011-03-06#;#2#;#Miliæ Pešec#;# Željka#;#profesor #;# Zagreb#;#10000#;# H.Macanoviæa 35.#;#43#;# 098 1657 152#;# #;# zeljka.pesec.prof@gmail.com#;#Osnovna škola Alojzija Stepinca, Zagreb#;#1#;# #;#  #;# #;#0#;# #;# #;#0#;#
+84#;#8#;#2011-03-07#;#2#;#Šolc-Pervan#;# Vilma#;#prof. tjelesnog odgoja i kinez#;# Zagreb#;#10000#;# Getaldiæeva 2#;#43#;# +385989383713#;#+38512371077#;# pervan_v@yahoo.co.uk#;#Faculty of Graphic Arts University of Zagreb#;#2#;#Physical education university courses according to Bologna declaration #;# Vilma Šolc-Pervan, Vazmenko Pervan#;#Vilma Šolc-Pervan#;#1#;#Radovi/Vilma Šolc-Pervan - Physical education university courses according to Bologna declaration.doc#;# #;#0#;#
+85#;#8#;#2011-03-08#;#2#;#Vatovec#;# Jenny#;#Lecturer, Physical and Health #;# Thirroul#;#2515#;# 52 Lachlan Street#;#9#;# 0422995223#;#61242672885#;# jvatovec@uow.edu.au#;#University of Wollongong#;#1#;# #;#  #;# #;#0#;# #;# #;#0#;#
+86#;#8#;#2011-03-08#;#1#;#Erceg#;# Marko#;#Mr.sc.#;# Split#;#21000#;# Baresiceva 8#;#43#;# ++38598323192#;#++38521385399#;# merceg@kifst.hr#;#Faculty of Kinesiology, University of Split#;#2#;#ANALIZA RAZLIKA FUNKCIONALNIH KARAKTERISTIKA STUDENTICA UPORABOM 3 RAZLIÈITE SPRAVE ZA DOZIRANO OPTEREÆENJE #;# Erceg Marko, Jelaska Igor, Maleš Boris #;#Erceg Marko#;#1#;#Radovi/Marko Erceg - Analiza razlika funkcionalnih karakteristika studentica uporabom 3 razlièite sprave za dozirano optereæenje.doc#;# #;#0#;#
+87#;#8#;#2011-03-08#;#1#;#Krstuloviæ#;# Saša#;#Izvanredni profesor#;# Split#;#21000#;# Teslina 6#;#43#;# 091 583 5842#;#021385399#;# sasa@kifst.hr#;#Kineziološki fakultet Sveuèilišta u Splitu#;#2#;#FIZIOLOŠKI PROCESI PRI MODIFICIRANOM NAÈINU HRVANJA#;# Hrvoje Karninèiæ, Saša Krstuloviæ, Nikola Foretiæ, Marko Erceg#;#Saša Krstuloviæ #;#1#;#Radovi/Hrvoje Karninèiæ - Fiziološki procesi pri modificiranom naèinu hrvanja.doc#;# #;#0#;#
+88#;#8#;#2011-03-08#;#1#;#Jurak#;# Gregor#;#ass.prof.#;# Ljubljana#;#Sl-1000#;# Gortanova 22#;#157#;# +38615207700#;# #;# gregor.jurak@fsp.uni-lj.si#;#University of Ljubljana, Faculty of Sport#;#2#;#The comparison of physical fitness of 13-year-old students from Ljubljana and Belgrade#;# Gregor Jurak, Snežana Radisavljeviæ, Ivana Milanoviæ, Janko Strel, Bojan Leskošek, Marjeta Kovaè#;#Gregor Jurak#;#1#;#Radovi/Gregor Jurak - The comparison of physical fitness of 13-year-old students from Ljubljana and Belgrade.doc#;# #;#0#;#
+89#;#8#;#2011-03-08#;#1#;#De Silva#;# Viraj#;# #;# Matale, Sri Lanka#;#21000#;# 11A, Kaludewela Circular Road, Matale#;#162#;# +94718192255#;# #;# desilva_viraj@yahoo.com#;#Faculty of Medicine, University of Peradeniya, Sri Lanka#;#4#;#Relationship among the different body fat measuring methods#;# W.V.V. De Silva, E.M.C.S. Ekanayake, S.U. Jayasinghe, W.A.M. Fernando, N.C. Kodithuwakku, M.H.F. Saeeda, H.R.I.Weerasena, A.M.P.D.K. Karunarathne, M.L.M. Mushraf, K.A.C.J. Jayawardena,  A. Mallawarachchi, S.A. Rajaratne #;#W.V.V. De SIlva#;#1#;#Radovi/De Silva - Relationship among the different body fat measuring methods.pdf#;#D#;#0#;#
+90#;#8#;#2011-03-08#;#1#;#Mršiæ#;# Andro#;#mag.cin#;# Ðakovo#;#31400#;# Kralja Zvonimira 35.#;#43#;# 098252104#;#031831357#;# andro.mrsic@os.t-com.hr#;#OŠ "IVANA BRLIÆ MAŽURANIÆ" STRIZIVOJNA#;#2#;#Plivaèi i neplivaèi u Osnovnoj školi "Ivana Brliæ Mažuraniæ" u Strizivojni#;# ANDRO MRŠIÆ#;#ANDRO MRŠIÆ#;#1#;#Radovi/Andro Mršiæ - Plivaèi i neplivaèi u Osnovnoj školi Ivana Brliæ Mažuraniæ u Strizivojni.pdf#;# #;#0#;#
+91#;#8#;#2011-03-08#;#1#;#Barreto#;# Alex#;#I graduated in Physical Educat#;# Manaus#;#69005-080#;# Avenida Joaquim Nabuco, 333, Hotel Safira, Apartment 101, Manaus, Amazonas#;#24#;# 559282414552#;# #;# prof.alexbarreto@gmail.com#;# #;#4#;#OBESITY AND ASSOCIATED HABITS AMONG SCHOLARS FROM MANAUS#;# Alex Barreto de Lima Haldo Jayron Cardoso Gonçalves#;#Alex Barreto de Lima#;#1#;#Radovi/OBESITY AND ASSOCIATED HABITS AMONG SCHOLARS FROM MANAUS.docx#;# #;#0#;#
+92#;#8#;#2011-03-09#;#1#;#Andro#;# Mršiæ#;#mag.cin#;# Ðakovo#;#31400#;# Kralja Zvonimira 35.#;#43#;# 098252104#;#031831357#;# andro.mrsic@os.t-com.hr#;#OŠ#;#2#;#Loše držanje tijela i deformacije u OŠ "Ivana Brliæ Mažuraniæ" u Strizivojni#;# ANDRO MRŠIÆ#;#ANDRO MRŠIÆ#;#1#;#Radovi/Andro Mršiæ - Loše držanje tijela i deformacije u OŠ Ivana Brliæ Mažuraniæ u Strizivojni.pdf#;# #;#0#;#
+93#;#8#;#2011-03-09#;#1#;#Gregor#;# Jurak#;#ass.prof.#;# Ljubljana#;#SI-1000#;# Gortanova 22#;#157#;# +38615207700#;# #;# gregor.jurak@fsp.uni-lj.si#;#University of Ljubljana, Faculty of Sport#;#2#;#NO GYM OR E-GYM?#;# Gregor Jurak, Marjeta Kovaè#;#Gregor Jurak#;#1#;#Radovi/Gregor Jurak - No gym or e-gym.doc#;# #;#0#;#
+94#;#8#;#2011-03-10#;#2#;#Popeska#;# Biljana#;#assistent Msc#;# Stip#;#201#;# Krste Misirkov, bb #;#102#;# 00389 75 499 380#;# #;# biljana.popeska@ugd.edu.mk#;#University Goce Delcev, Pedagogical faculty#;#4#;#DIFFERENCES IN STRENGTH PERFORMANCES BETWEEN GROUPS OF 7 YEAR OLD MALE MACEDONIAN PUPILS WITH DIFFERENT LEVELS OF EXPLOSIVE STRENGTH ABILITIES#;# Popeska, B. & Klincarov, I.#;#Popeska Biljana#;#1#;#Radovi/Popeska & Klincarov.doc#;# #;#0#;#
+96#;#8#;#2011-03-11#;#1#;#Klincarov#;# Ilija#;#Associate professor, PhD#;# Skopje#;#1000#;# Zeleznicka bb#;#102#;# 00389 70 366646#;# #;# i.klincarov@ukim.edu.mk#;#University Ss. Cyril and Mthodius in Skopje, Faculty of physical culture #;#2#;#MODEL FOR PHYSICAL EDUCATION CONTENT STANDARDS AT EARLY STAGES OF PRIMARY EDUCATION IN REPUBLIC OF MACEDONIA#;# Klincarov, I., Popeska, B.#;#Klincarov, I.#;#1#;#Radovi/klincarov and popeska.doc#;# #;#0#;#
+97#;#8#;#2011-03-15#;#2#;#Marjeta#;# Mišigoj-Ðurakoviæ#;#Prof.dr.sc.#;# Zagreb#;#10000#;# Horvaæanski zavoj 15#;#43#;# 1613#;# #;# marjeta.misigoj-durakovic@kif.hr#;#Faculty of Kinesiology, University of Zagreb#;#4#;#Doctoral study of Kinesiology – The implementation of biomedical subjects in the study curriculum #;# MISIGOJ-DURAKOVIC Marjeta, MILANOVIC Dragan, FINDAK Vladimir, ANDRIJASEVIC Mirna, DURAKOVIC Zijad#;#MISIGOJ-DURAKOVIC Marjeta#;#1#;#Radovi/Marjeta Misigoj - Ðurakovic - Doctoral study of Kinesiology – The implementation of biomedical subjects in the study curriculum.doc#;# #;#0#;#
+98#;#8#;#2011-03-15#;#2#;#Peršun#;# Josipa#;# #;# Zagreb#;#10000#;# Srijemska 11 #;#43#;# 091/533-4940#;# #;# josipa.persun@yahoo.com#;#IX. Gimnazija, Zagreb#;#2#;#PSIHOLOŠKA ISTRAŽIVANJA NASTAVE TJELESNE I ZDRAVSTVENE KULTURE U HRVATSKOJ#;# Josipa Peršun, Srna Jenko Miholiæ, Ivan Vrbik#;#Josipa Peršun#;#1#;#Radovi/Josipa Peršun - Psihološka istraživanja nastave tjelesne i zdravstvene kulture u Hrvatskoj.doc#;# #;#0#;#
+99#;#8#;#2011-03-16#;#2#;#Petruševska Aleksovska#;# Lila#;#Mr.sc.#;# Skopje#;#1000#;# Ul.8 br.35, Ilinden#;#102#;# ++389 070 547870#;#++389 02 2573347#;# lila.petrusevska@hotmail.com#;#OU Goce Delèev#;#2#;#Utjecaj odreðenih antropometrijskih varijabli na rezultat u bacanju  kugle kod uèenika na uzrast 13-14 godina #;# Mr.sc.Lila Petruševska-Aleksovska, Prof.Dr.sc Vanèo Pop-Petrovski, #;#Mr.sc.Lila Petruševska-Aleksovska #;#2#;#Radovi/Lila Petruševska-Aleksovska - Utjecaj odreðenih antropometrijskih varijabli na rezultat u bacanju kugle kod uèenika na uzrast 13-14 godina.doc#;#D#;#0#;#
+100#;#8#;#2011-03-16#;#2#;#Lila#;# Petruševska Aleksovska#;#Mr.sc.#;# Skopje#;#1000#;# Ul.8 br.35, Ilinden#;#102#;# ++389 070 547870#;#++389 02 2573347#;# lila.petrusevska@hotmail.com#;#OU Goce Delèev#;#2#;#Struktura antropometrijskih mjera kod uèenika na uzrastu od 13-14 godina   #;# Mr.sc.Lila Petruševska-Aleksovska#;#Mr.sc.Lila Petruševska-Aleksovska#;#2#;#Radovi/Lila Petruševska-Aleksovska - Struktura antropometrijskih mjera kod uèenika na uzrastu od 13-14 godina  .doc#;#D#;#0#;#
+101#;#8#;#2011-03-16#;#2#;#Nikoliæ#;# Biljana#;#Magistar fizièke kulture#;# Beograd#;#11000#;# Kneza Višeslava 72#;#152#;# 063-8351-865#;# #;# biljamaric@yahoo.com#;#Republièki zavod za sport, Centar za motorièka istraživanja i analitiku u sportu#;#2#;#Primena Wingate testa za procenu anaerobne maksimalne moæi i kapaciteta kod drumskih biciklista seniorske kategorije u odnosu na njihovu specijalnost#;# Nikoliæ Biljana, Badnjareviæ Nemanja, Vasiljeviæ Marko, Janjiæ Dragoljub#;#Biljana Nikoliæ#;#2#;#Radovi/Biljana Nikoliæ - Primena Wingate testa za procenu anaerobne maksimalne moæi i kapaciteta kod drumskih biciklista seniorske kategorije u odnosu na njihovu specijalnost.doc#;# #;#0#;#
+102#;#8#;#2011-03-17#;#2#;#Kostaniæ#;# Danijela#;#prof.#;# Makarska#;#21 300#;# Baškovoška 6#;#43#;# 0996924194#;# #;# danijelakostanic@yahoo.co.uk#;#Kineziološki fakultet Sveuèilišta u Zagrebu#;#2#;#RAZLIKE U KOMPETENCIJAMA U NASTAVI TJELESNE I ZDRAVSTVENE KULTURE U NEKIM ZEMLJAMA EUROPE  #;# Danijela Kostaniæ, Nikola Prlenda, Vjekoslav Cigrovski#;#Danijela Kostanic#;#1#;#Radovi/6. kongres FIEP.doc#;# #;#0#;#
+103#;#8#;#2011-03-18#;#1#;#Knjaz#;# Damir#;#doc.dr.sc.#;# Zagreb#;#10000#;# Horvaæanski zavoj 15#;#43#;# 1756#;# #;# damir.knjaz@kif.hr#;#Faculty of Kinesiology, University of Zagreb#;#2#;#Prilog analizi problema kompetentnosti provoðenja nastave tjelesne i zdravstvene kulture  #;# Doc.dr.sc. Damir Knjaz, Kineziološki fakultet Sveuèilišta u Zagrebu, Hrvatska Dr.sc. Tomislav Rupèiæ, Kineziološki fakultet Sveuèilišta u Zagrebu, Hrvatska Mirela Šunda, prof., Gimnazija A.G. Matoša, Ðakovo Andrea Tvorek, prof., OŠ Ljudevita Gaja, Zaprešiæ Dražen Adžiæ, prof., OŠ Šimuna Kožièiæa Benje, Zadar #;#Damir Knjaz#;#1#;#Radovi/Damir Knjaz - Prilog analizi problema kompetentnosti provoðenja nastave tjelesne i zdravstvene kulture .doc#;# #;#0#;#
+104#;#8#;#2011-03-21#;#1#;#Vrbik#;# Ivan#;#Prof fizièke kulture#;# PETRINJA#;#44250#;# Dragutina Careka 25#;#43#;# 098 510 984#;# #;# ivan.vrbik@sk.t-com.hr#;#Industrijsko – obrtnièka škola Sisak#;#2#;#FUNKCIONALNE SPOSOBNOSTI UÈENIKA U OSNOVNOJ ŠKOLI#;# Ivan Vrbik, Andrea Èižmek, Josipa Peršun#;#Ivan Vrbik#;#1#;#Radovi/Ivan Vrbik - Funkcionalne sposobnosti uèenika u osnovnoj školi.doc#;# #;#0#;#
+105#;#8#;#2011-03-21#;#2#;#Èižmek#;# Andrea#;#Profesor fizièke kulture#;# Zagreb#;#10090#;# Podsusedska aleja 10a#;#43#;# 099 69 48 662#;# #;# nea1370@hotmail.com#;#Prvi strelièarski klub „Zagreb 1955“#;#3#;#Funkcionalne sposobnosti u osnovnoj školi#;# Ivan Vrbik, Andrea Èižmek, Josipa Peršun#;#Ivan Vrbik#;#1#;#Radovi/#;# #;#0#;#
+106#;#8#;#2011-03-22#;#2#;#Jenko Miholiæ#;# Srna#;#mag.cin.#;# Zagreb#;#10251#;# Demerje 142#;#43#;# 098/9427911#;# #;# srna.jenko@ufzg.hr#;# #;#3#;# #;# #;# #;#1#;# #;# #;#0#;#
+##d##prijave_mail##d##
+1#;#dkamenar@kif.hr#;#
+2#;#pokonji_dol@yahoo.com#;#
+##d##drugi_fiep##d##
+##d##drzave##d##
+1#;#Afghanistan#;#
+2#;#Albania#;#
+3#;#Algeria#;#
+4#;#Andorra#;#
+5#;#Angola#;#
+6#;#Antigua and Barbuda#;#
+7#;#Argentina#;#
+8#;#Armenia#;#
+9#;#Australia#;#
+10#;#Austria#;#
+11#;#Azerbaijan#;#
+12#;#Bahamas#;#
+13#;#Bahrain#;#
+14#;#Bangladesh#;#
+15#;#Barbados#;#
+16#;#Belarus#;#
+17#;#Belgium#;#
+18#;#Belize#;#
+19#;#Benin#;#
+20#;#Bhutan#;#
+21#;#Bolivia#;#
+22#;#Bosnia and Herzegovina#;#
+23#;#Botswana#;#
+24#;#Brazil#;#
+25#;#Brunei#;#
+26#;#Bulgaria#;#
+27#;#Burkina Faso#;#
+28#;#Burundi#;#
+29#;#Cambodia#;#
+30#;#Cameroon#;#
+31#;#Canada#;#
+32#;#Cape Verde#;#
+33#;#Central African Republic#;#
+34#;#Chad#;#
+35#;#Chile#;#
+36#;#China#;#
+37#;#Colombia#;#
+38#;#Comoros#;#
+39#;#Congo#;#
+40#;#Congo#;#
+41#;#Costa Rica#;#
+43#;#Croatia#;#
+44#;#Cuba#;#
+45#;#Cyprus#;#
+46#;#Czech Republic#;#
+47#;#Denmark#;#
+48#;#Djibouti#;#
+49#;#Dominica#;#
+50#;#Dominican Republic#;#
+51#;#Ecuador#;#
+52#;#Egypt#;#
+53#;#El Salvador#;#
+54#;#Equatorial Guinea#;#
+55#;#Eritrea#;#
+56#;#Estonia#;#
+57#;#Ethiopia#;#
+58#;#Fiji#;#
+59#;#Finland#;#
+60#;#France#;#
+61#;#Gabon#;#
+62#;#Gambia#;#
+63#;#Georgia#;#
+64#;#Germany#;#
+65#;#Ghana#;#
+66#;#Greece#;#
+67#;#Grenada#;#
+68#;#Guatemala#;#
+69#;#Guinea#;#
+70#;#Guinea-Bissau#;#
+71#;#Guyana#;#
+72#;#Haiti#;#
+73#;#Honduras#;#
+74#;#Hungary#;#
+75#;#Iceland#;#
+76#;#India#;#
+77#;#Indonesia#;#
+78#;#Iran#;#
+79#;#Iraq#;#
+80#;#Ireland#;#
+81#;#Israel#;#
+82#;#Italy#;#
+83#;#Jamaica#;#
+84#;#Japan#;#
+85#;#Jordan#;#
+86#;#Kazakhstan#;#
+87#;#Kenya#;#
+88#;#Kiribati#;#
+89#;#Korea#;#
+90#;#Korea#;#
+91#;#Kuwait#;#
+92#;#Kyrgyzstan#;#
+93#;#Laos#;#
+94#;#Latvia#;#
+95#;#Lebanon#;#
+96#;#Lesotho#;#
+97#;#Liberia#;#
+98#;#Libya#;#
+99#;#Liechtenstein#;#
+100#;#Lithuania#;#
+101#;#Luxembourg#;#
+102#;#Macedonia#;#
+103#;#Madagascar#;#
+104#;#Malawi#;#
+105#;#Malaysia#;#
+106#;#Maldives#;#
+107#;#Mali#;#
+108#;#Malta#;#
+109#;#Marshall Islands#;#
+110#;#Mauritania#;#
+111#;#Mauritius#;#
+112#;#Mexico#;#
+113#;#Micronesia#;#
+114#;#Moldova#;#
+115#;#Monaco#;#
+116#;#Mongolia#;#
+117#;#Montenegro#;#
+118#;#Morocco#;#
+119#;#Mozambique#;#
+120#;#Myanmar (Burma)#;#
+121#;#Namibia#;#
+122#;#Nauru#;#
+123#;#Nepal#;#
+124#;#Netherlands#;#
+125#;#New Zealand#;#
+126#;#Nicaragua#;#
+127#;#Niger#;#
+128#;#Nigeria#;#
+129#;#Norway#;#
+130#;#Oman#;#
+131#;#Pakistan#;#
+132#;#Palau#;#
+133#;#Panama#;#
+134#;#Papua New Guinea#;#
+135#;#Paraguay#;#
+136#;#Peru#;#
+137#;#Philippines#;#
+138#;#Poland#;#
+139#;#Portugal#;#
+140#;#Qatar#;#
+141#;#Romania#;#
+142#;#Russia#;#
+143#;#Rwanda#;#
+144#;#Saint Kitts and Nevis#;#
+145#;#Saint Lucia#;#
+146#;#Saint Vincent and the Grenadines#;#
+147#;#Samoa#;#
+148#;#San Marino#;#
+149#;#Sao Tome and Principe#;#
+150#;#Saudi Arabia#;#
+151#;#Senegal#;#
+152#;#Serbia#;#
+153#;#Seychelles#;#
+154#;#Sierra Leone#;#
+155#;#Singapore#;#
+156#;#Slovakia#;#
+157#;#Slovenia#;#
+158#;#Solomon Islands#;#
+159#;#Somalia#;#
+160#;#South Africa#;#
+161#;#Spain#;#
+162#;#Sri Lanka#;#
+163#;#Sudan#;#
+164#;#Suriname#;#
+165#;#Swaziland#;#
+166#;#Sweden#;#
+167#;#Switzerland#;#
+168#;#Syria#;#
+169#;#Tajikistan#;#
+170#;#Tanzania#;#
+171#;#Thailand#;#
+172#;#Timor-Leste (East Timor)#;#
+173#;#Togo#;#
+174#;#Tonga#;#
+175#;#Trinidad and Tobago#;#
+176#;#Tunisia#;#
+177#;#Turkey#;#
+178#;#Turkmenistan#;#
+179#;#Tuvalu#;#
+180#;#Uganda#;#
+181#;#Ukraine#;#
+182#;#United Arab Emirates#;#
+183#;#United Kingdom#;#
+184#;#United States#;#
+185#;#Uruguay#;#
+186#;#Uzbekistan#;#
+187#;#Vanuatu#;#
+188#;#Vatican City#;#
+189#;#Venezuela#;#
+190#;#Vietnam#;#
+191#;#Yemen#;#
+192#;#Zambia#;#
+193#;#Zimbabwe#;#
+194#;#Abkhazia#;#
+195#;#China#;#
+196#;#Nagorno-Karabakh#;#
+197#;#Northern Cyprus#;#
+198#;#Pridnestrovie (Transnistria)#;#
+199#;#Somaliland#;#
+200#;#South Ossetia#;#
+201#;#Ashmore and Cartier Islands#;#
+202#;#Christmas Island#;#
+203#;#Cocos (Keeling) Islands#;#
+204#;#Coral Sea Islands#;#
+205#;#Heard Island and McDonald Islands#;#
+206#;#Norfolk Island#;#
+207#;#New Caledonia#;#
+208#;#French Polynesia#;#
+209#;#Mayotte#;#
+210#;#Saint Barthelemy#;#
+211#;#Saint Martin#;#
+212#;#Saint Pierre and Miquelon#;#
+213#;#Wallis and Futuna#;#
+214#;#French Southern and Antarctic Lands#;#
+215#;#Clipperton Island#;#
+216#;#Bouvet Island#;#
+217#;#Cook Islands#;#
+218#;#Niue#;#
+219#;#Tokelau#;#
+220#;#Guernsey#;#
+221#;#Isle of Man#;#
+222#;#Jersey#;#
+223#;#Anguilla#;#
+224#;#Bermuda#;#
+225#;#British Indian Ocean Territory#;#
+226#;#British Sovereign Base Areas#;#
+227#;#British Virgin Islands#;#
+228#;#Cayman Islands#;#
+229#;#Falkland Islands (Islas Malvinas)#;#
+230#;#Gibraltar#;#
+231#;#Montserrat#;#
+232#;#Pitcairn Islands#;#
+233#;#Saint Helena#;#
+234#;#South Georgia and the South Sandwich Islands#;#
+235#;#Turks and Caicos Islands#;#
+236#;#Northern Mariana Islands#;#
+237#;#Puerto Rico#;#
+238#;#American Samoa#;#
+239#;#Baker Island#;#
+240#;#Guam#;#
+241#;#Howland Island#;#
+242#;#Jarvis Island#;#
+243#;#Johnston Atoll#;#
+244#;#Kingman Reef#;#
+245#;#Midway Islands#;#
+246#;#Navassa Island#;#
+247#;#Palmyra Atoll#;#
+248#;#U.S. Virgin Islands#;#
+249#;#Wake Island#;#
+250#;#Hong Kong#;#
+251#;#Macau#;#
+252#;#Faroe Islands#;#
+253#;#Greenland#;#
+254#;#French Guiana#;#
+255#;#Guadeloupe#;#
+256#;#Martinique#;#
+257#;#Reunion#;#
+258#;#Aland#;#
+259#;#Aruba#;#
+260#;#Netherlands Antilles#;#
+261#;#Svalbard#;#
+262#;#Ascension#;#
+263#;#Tristan da Cunha#;#
+264#;#Antarctica#;#
+265#;#Kosovo#;#
+266#;#Palestinian Territories (Gaza Strip and West Bank)#;#
+267#;#Western Sahara#;#
+268#;#Australian Antarctic Territory#;#
+269#;#Ross Dependency#;#
+270#;#Peter I Island#;#
+271#;#Queen Maud Land#;#
+272#;#British Antarctic Territory#;#
+##d##javno_fiep##d##
+##d##prijave_fiep_biljeska##d##
+##d##sekcija##d##
+1#;#Edukacija#;# #;#
+2#;#Sport#;# #;#
+3#;#Ostale teme#;# #;#
+##d##vrsta_rada##d##
+1#;#Referat#;#
+2#;#Koreferat#;#
+3#;#Priopæenje#;#
+##d##referat_dodatak##d##

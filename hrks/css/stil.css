@@ -1,0 +1,276 @@
+BODY {
+	MARGIN: 0px; FONT-FAMILY: Arial, Helvetica, sans-serif; BACKGROUND-COLOR: #f2f2f2; TEXT-DECORATION: none
+}
+.meni {
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #f2f2f2;
+}
+.meniBez {
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+}
+
+.meniLeft {
+	FONT-SIZE: 11px;
+	COLOR: #990000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	font-weight: normal;
+	background-position: center;
+}
+A.stil {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A.stil2 {
+	FONT-SIZE: 11px; COLOR: #000099; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+TD.prava {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+A:hover {
+	FONT-SIZE: 11px; COLOR: #990000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+A.stil1:hover {
+	FONT-SIZE: 11px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline
+}
+TD.meni1 {
+	FONT-SIZE: 9px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tekst {
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tekstOkvir {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #990000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+	border-top-color: #990000;
+	border-right-color: #990000;
+	border-bottom-color: #990000;
+	border-left-color: #990000;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+gumb_10
+.tekst_Sivi {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #555;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tekst_Bold {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tekst_C {
+	FONT-WEIGHT: bold;
+	FONT-SIZE: 12px;
+	COLOR: #FF0000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.tekst_S {
+	background-color: #f2f2f2;FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.bgTabela {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../image/fiep_por.gif);
+	background-repeat: no-repeat;
+	background-position: right top;
+}
+.tekst_L {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../image/linijaL.gif);
+	background-repeat: repeat-y;
+}
+.tekst_D {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	background-image: url(../image/linijaD.gif);
+	background-repeat: repeat-y;
+}
+
+.btekst {
+	FONT-WEIGHT: bold; FONT-SIZE: 112px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+TD.lista {
+	FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.bijeli {
+	FONT-SIZE: 10px;
+	COLOR: #ffffff;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	vertical-align: middle;
+}
+A.bijeli:hover {
+	FONT-SIZE: 10px; COLOR: #ffffff; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none
+}
+TD.naslov {
+	FONT-WEIGHT: bold; FONT-SIZE: 10px; COLOR: #333333; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+A.crni_link {
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+}
+A.crni_link:hover {
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: none;
+}
+
+A.jezik {
+	FONT-SIZE: 9px;
+	COLOR: #AA0000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	vertical-align: middle;
+}
+A.jezik:hover {
+	FONT-SIZE: 9px; COLOR: #AA0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: underline;vertical-align: middle;
+}
+.jezik2 {
+	FONT-SIZE: 9px; COLOR: #AA0000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif; TEXT-DECORATION: none;vertical-align: middle;
+}
+.banner_left {
+	MARGIN-TOP: 0px; BACKGROUND-COLOR: #ffffff
+}
+.banner_middle {
+	BACKGROUND-POSITION-X: left; BACKGROUND-IMAGE: url(../image/mid_crta.gif); WIDTH: 2px; BACKGROUND-COLOR: white
+}
+.banner_center {
+	PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND-POSITION-Y: center; BACKGROUND-IMAGE: url(sep.gif); PADDING-BOTTOM: 0px; MARGIN: 0px; WIDTH: 688px; PADDING-TOP: 0px; BACKGROUND-REPEAT: repeat-x; HEIGHT: 3px; BACKGROUND-COLOR: white
+}
+.banner_right {
+	MARGIN-TOP: 0px; VERTICAL-ALIGN: top; BACKGROUND-COLOR: white
+}
+.banner_shadow {
+	BACKGROUND-POSITION-X: left; BACKGROUND-IMAGE: url(sjena.gif); WIDTH: 5px; BACKGROUND-COLOR: white
+}
+.banner_shadow_down {
+	BACKGROUND-IMAGE: url(sjena_donja.gif); HEIGHT: 3px; BACKGROUND-COLOR: white
+}
+
+.linija_mid {
+	background-image: url(../image/crta_v.jpg);
+	background-repeat: repeat-y;	
+}
+
+.bg {
+	background-image: url(../image/bg2.gif);
+	background-repeat: repeat-x;	
+	FONT-WEIGHT: normal; FONT-SIZE: 11px; COLOR: #000000; FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif
+}
+.up {
+	FONT-WEIGHT: normal;
+	FONT-SIZE: 14px;
+	COLOR: #990000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	background-repeat: repeat-y;
+	background-image: url(../image/linijaUp.gif);
+}
+
+.okvir {
+	BORDER-RIGHT: #cccccc 1px solid;
+	BORDER-TOP: #cccccc 1px solid;
+	MARGIN-TOP: 0px;
+	BORDER-LEFT: #cccccc 1px solid;
+	BORDER-BOTTOM: #cccccc 1px solid;
+	BACKGROUND-COLOR: #FFFFFF;
+	background-position: center;
+}
+.naslov {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 36px;
+	color: #000000;
+	font-weight: normal;
+}
+.linija {
+	background-image: url(../image/linija_horiz.gif);
+	background-repeat: repeat-x;
+	background-position: center;
+}
+.meniLink {
+	background-color: #f2f2f2;
+	font-family: "Times New Roman", Times, serif;
+}
+A.crni_link_U {
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+	text-transform: uppercase;
+	background-color: #f2f2f2;
+}
+A.crni_link_U:hover {
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+	text-transform: uppercase;
+	background-color: #f2f2f2;
+}
+A.crni_link_U_bez {
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	TEXT-DECORATION: none;
+}
+A.crni_link_U:hover_bez {
+	FONT-SIZE: 11px;
+	COLOR: #000000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration: underline;
+}
+
+.meniLeft {
+	FONT-SIZE: 11px;
+	COLOR: #990000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	background-color: #FFFFFF;
+	font-weight: normal;
+	background-position: center;
+}
+
+.meniLeft2 {
+	FONT-SIZE: 11px;
+	COLOR: #990000;
+	FONT-FAMILY: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	background-position: center;
+}
+.gumb_1 {
+	background-image: url(../image/baza.gif);
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 48px;
+	width: 100px;
+	color: #FFFFFF;
+	background-color: #FFFFFF;
+	border: 1px none #FFFFFF;
+	cursor: hand;
+}

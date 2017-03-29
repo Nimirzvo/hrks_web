@@ -1,0 +1,58 @@
+<?php
+function checkSessions()
+{
+  global $SESSION_KEY;
+  global $ID_KEY;
+  
+  session_start();
+
+  if (!array_key_exists($SESSION_KEY, $_SESSION))
+      $_SESSION[$SESSION_KEY] = array();
+}
+
+function upload($key, $path)
+{
+  global $SESSION_KEY;
+  global $ID_KEY;
+  
+  if (!isset($_FILES[$key]) || !is_array($_FILES[$key]))
+    return false;
+ 
+  $file = $_FILES[$key];
+	  
+  $id   = $_POST[$ID_KEY];
+ 
+  if ($file['error'] != UPLOAD_ERR_OK)
+    return false;
+ 
+  $fullpath = sprintf('%s/%s', $path, basename($file['name']));
+  if (!move_uploaded_file($file['tmp_name'], $fullpath))
+    return false;
+ 
+  $size = filesize($fullpath);
+ 
+  $_SESSION[$SESSION_KEY][$id] = array(
+                'id'       => $id,
+                'finished' => true,
+                'percent'  => 100,
+                'total'    => $size,
+                'complete' => $size
+  );
+ 
+  return true;
+}
+
+function apcCheck()
+{
+  if (!extension_loaded('apc') || !function_exists('apc_fetch'))
+    return false;
+  return (ini_get('apc.enabled') && ini_get('apc.rfc1867'));
+}
+
+function uploadprogressCheck()
+{
+  if (!function_exists("uploadprogress_get_info"))
+    return false;
+  return true;
+}
+?>

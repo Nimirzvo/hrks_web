@@ -1,0 +1,5 @@
+<?php
+    require_once('upload.php');
+
+    upload('myFile', realpath('/var/www/virtual/srnka.info/phptmp/'));
+?>
